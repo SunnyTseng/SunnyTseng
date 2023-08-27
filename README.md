@@ -6,6 +6,8 @@ This is Sunny! I was born and raised in a beautiful country called Taiwan. ❤�
 - 🎨 I’m taking commissions for scientific infographics! Checkout [my works](https://sunshineland.netlify.app/infographic/) and feel free to contact me 😸
 - 💻 I’m teaching statistics and R programming, currently learning and polishing my skills in developing packages. 
 
+Check out my [website](https://sunshineland.netlify.app/) and my [CV](https://github.com/SunnyTseng/sunny_cv/blob/main/CV_Sunny_up_to_date.pdf) to learn more about me 😄
+
 <!--
 **SunnyTseng/SunnyTseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
