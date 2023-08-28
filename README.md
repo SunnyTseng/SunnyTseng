@@ -2,8 +2,8 @@
 
 This is Sunny! I was born and raised in a beautiful country called Taiwan. ❤️ Growing up, I see myself as a multidisciplinary individual - I am a scientist, a writer, an artist, and a field recordist. Exploring this world with great enthusiasm and self-reflection is the way I guide my life. When I am not in the office, you can often find me outside hiking, recording, swimming (scuba diving), or simply staying home enjoying a cup of tea.
 
-- 🐦 I’m currently working on my PhD project for avian acoustics, living in Vancouver, Canada.
-- 🎨 I’m taking commissions for scientific infographics! Checkout [my works](https://sunshineland.netlify.app/infographic/) and feel free to contact me 😸
+- 🐦 I’m a PhD candidate working on avian acoustics, living in Vancouver, Canada.
+- 🎨 I’m taking commissions for scientific infographics! Checkout [my works](https://sunshineland.netlify.app/infographic/)! 😸
 - 💻 I’m teaching statistics and R programming, currently learning and polishing my skills in developing packages. 
 
 Check out my [website](https://sunshineland.netlify.app/) and my [CV](https://github.com/SunnyTseng/sunny_cv/blob/main/CV_Sunny_up_to_date.pdf) to learn more about me 😄
