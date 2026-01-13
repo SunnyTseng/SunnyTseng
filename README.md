@@ -4,7 +4,7 @@ This is Sunny! I was born and raised in a beautiful country called Taiwan, and n
 
 - 💻 I'm an R data scientist, proficient in R package development, Shiny apps, markdown documentation, and data wrangling/modeling for ecological questions. Most of my programming works can be found on [Github](https://github.com/SunnyTseng)
 
-- 🎨 I'm a scientific infographic designer, blending art and science. Check out my [portfolio](https://sunnytseng.ca/science/)
+- 🎨 I'm a scientific infographic designer, blending art and science. Check out my [portfolio](https://sunnytseng.ca/design/)
 
 - 🐦 I'm an ornithologist specializing in avian acoustic research, passionate about recording bird sounds for storytelling. Most of my field recording collection can be found on [Xeno-Canto](https://xeno-canto.org/contributor/SPMWIWZKKC)
 
