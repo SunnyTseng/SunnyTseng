@@ -11,7 +11,7 @@ I specialize in preparing and streamlining data pipelines for complex, large-sca
 
 
 #### 📦 R Package Development
-Building R packages is one of the best ways to make code easily accessible, as internal workflows for a team or broad open-source across a research field. As a developer, my experience includes creating bbsTaiwan under the rOpenSci Championship program to streamline access to and wrangling of long-term citizen science data, as well as birdnetTools, a specialized package designed to process automated wildlife detection data by seamlessly linking acoustic datasets with the machine learning algorithm BirdNET.
+Building R packages is one of the best ways to make code easily accessible, as internal workflows for a team or broad open-source across a research field. As a developer, my experience includes creating [bbsTaiwan](https://sunnytseng.github.io/bbsTaiwan/) under the rOpenSci Championship program to streamline access to and wrangling of long-term citizen science data, as well as [birdnetTools](https://birdnet-team.github.io/birdnetTools/), a specialized package designed to process automated wildlife detection data by seamlessly linking acoustic datasets with the machine learning algorithm BirdNET.
 
 
 
