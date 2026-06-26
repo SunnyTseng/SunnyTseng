@@ -16,7 +16,7 @@ Building R packages is one of the best ways to make code easily accessible, as i
 
 
 #### 🎨 Scientific Graphic Design
-Beyond data and programming, I specialize in visual communication for science. My design services range from custom visual assets like icons and logos to complex, high-impact products like research infographics, data visualizations, and graphical abstracts for journal publications. Check out my [design portfolio](https://sunnytseng.ca/design/) to see how we can bring scientific stories to life!
+Beyond data and programming, I specialize in visual communication for science. My design services range from custom visual assets like icons and logos to complex products like research infographics and graphical abstracts. Check out my [design portfolio](https://sunnytseng.ca/design/) to see how we can bring scientific stories to life!
 
 
 <!--
