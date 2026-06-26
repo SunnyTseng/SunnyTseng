@@ -1,14 +1,23 @@
-### Hi there 👋
+### Hello world 👋
 
-This is Sunny! I was born and raised in a beautiful country called Taiwan, and now call Vancouver, Canada, my second home. I’ve spent much of my career conducting bird-related scientific research in Siberia, Taiwan, Canada, and Lithuania, collecting bird sounds from more than 300 species. Exploring this world with great enthusiasm and self-reflection is how I guide my life. I am a PhD candidate, also work as an **ecological R data scientist** and **infographic designer**. Feel free to get in touch!
+**I am Sunny, an independent ecological consultant, R programmer, and scientific infographic artist based in Vancouver, Canada.**
 
-- 💻 I'm an R data scientist, proficient in R package development, Shiny apps, markdown documentation, and data wrangling/modeling for ecological questions. Most of my programming works can be found on [Github](https://github.com/SunnyTseng)
+I provide services in **R Workflows** (Data Management & Analysis), **R Package Development**, and **Scientific Graphic Design**. If you are interested in any of these services, please feel free to [contact me](mailto:sunnyyctseng@gmail.com), or check out [my website](https://sunnytseng.ca/) for more details.
 
-- 🎨 I'm a scientific infographic designer, blending art and science. Check out my [portfolio](https://sunnytseng.ca/design/)
 
-- 🐦 I'm an ornithologist specializing in avian acoustic research, passionate about recording bird sounds for storytelling. Most of my field recording collection can be found on [Xeno-Canto](https://xeno-canto.org/contributor/SPMWIWZKKC)
 
-Check out my [website](https://sunnytseng.ca/) to learn more about me 😄
+#### 🖥️ R Workflow 
+I specialize in preparing and streamlining data pipelines for complex, large-scale datasets. My services include data cleaning, wrangling, automated analysis, and advanced ecological modeling, helping scientists efficiently translate raw data into reports and peer-reviewed scientific manuscripts. I also build automated reproducible summaries using R Markdown and Quarto, as well as interactive R Shiny tools that translate complex data into accessible information.
+
+
+#### 📦 R Package Development
+Building R packages is one of the best ways to make code easily accessible, as internal workflows for a team or broad open-source across a research field. As a developer, my experience includes creating bbsTaiwan under the rOpenSci Championship program to streamline access to and wrangling of long-term citizen science data, as well as birdnetTools, a specialized package designed to process automated wildlife detection data by seamlessly linking acoustic datasets with the machine learning algorithm BirdNET.
+
+
+
+#### 🎨 Scientific Graphic Design
+Beyond data and programming, I specialize in visual communication for science. My design services range from custom visual assets like icons and logos to complex, high-impact products like research infographics, data visualizations, and graphical abstracts for journal publications. Check out my [design portfolio](https://sunnytseng.ca/design/) to see how we can bring scientific stories to life!
+
 
 <!--
 **SunnyTseng/SunnyTseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
