@@ -1,24 +1,10 @@
 ### Hello world 👋
 
-**I am Sunny, an independent ecological consultant, R programmer, and scientific infographic artist based in Vancouver, Canada.**
+**I am Sunny, an independent ecological consultant, R programmer, and scientific illustrator based in Vancouver, Canada.**
 
 > I earned my PhD in the spring of 2026 and am currently leading international projects, including an acoustic monitoring study in Lithuania (supported by National Geographic and Wildlife Acoustics), and working as a software developer with the BirdNET Team at the Cornell Lab of Ornithology (funded by the R Consortium), all while launching my business as an independent consultant and designer!
 
-I provide services in **R Workflows** (Data Management & Analysis), **R Package Development**, and **Scientific Graphic Design**. If you are interested in any of these services, please feel free to [contact me](mailto:sunnyyctseng@gmail.com), or check out [my website](https://sunnytseng.ca/) for more details.
-
-
-
-#### 🖥️ R Workflow 
-I specialize in preparing and streamlining data pipelines for complex, large-scale datasets. My services include data cleaning, wrangling, automated analysis, and advanced ecological modeling, helping scientists efficiently translate raw data into reports and peer-reviewed scientific manuscripts. I also build automated reproducible summaries using R Markdown and Quarto, as well as interactive R Shiny tools that translate complex data into accessible information.
-
-
-#### 📦 R Package Development
-Building R packages is one of the best ways to make code easily accessible, as internal workflows for a team or broad open-source across a research field. As a developer, my experience includes creating [bbsTaiwan](https://sunnytseng.github.io/bbsTaiwan/) under the rOpenSci Championship program to streamline access to and wrangling of long-term citizen science data, as well as [birdnetTools](https://birdnet-team.github.io/birdnetTools/), a specialized package designed to process automated wildlife detection data by seamlessly linking acoustic datasets with the machine learning algorithm BirdNET.
-
-
-
-#### 🎨 Scientific Graphic Design
-Beyond data and programming, I specialize in visual communication for science. My design services range from custom visual assets like icons and logos to complex products like research infographics and graphical abstracts. Check out my [design portfolio](https://sunnytseng.ca/design/) to see how we can bring scientific stories to life!
+I provide services in **R Workflows** (Data Management & Analysis), **R Package Development**, and **Scientific Graphic Design**. If you are interested in any of these services, please feel free to visit [my website](https://sunnytseng.ca/) for more details.
 
 
 <!--
